@@ -1,0 +1,107 @@
+body {
+	background-color: #EEEEEE;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: normal;
+	color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+	}
+
+.bg {
+	background-image:  url("../images/bkg_white.gif");
+	background-repeat: repeat-y;
+	background-position: center;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+a {
+	font-weight: bold;
+	color: #007AA3;
+}
+
+a:hover {
+	color: #FF9900;
+}
+
+.note {
+	font-size: 12px;
+	color: #333333;	
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: bold;
+	width: 100%;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+h3 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.content {
+	background-image:  url("../images/nav-shadow.gif");
+	background-repeat: repeat-x;
+	background-position: top;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+}
+
+.copyright {
+	background-color: #025374;
+	background-image:   url("../images/footer_bkg.gif");
+	background-repeat: repeat-x;
+	background-position: top;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 40px;
+	padding-left: 10px;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.copyright a {
+	color: #E9E9E9;
+}
+.header {
+	background-color: #0099CC;
+	background-image:  url("../images/header_bkg.gif");
+	background-repeat: repeat-x;
+	background-position: top;
+}
+
+/*
+     FILE ARCHIVED ON 08:38:08 Mar 03, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:00:20 Dec 10, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 96.264
+  exclusion.robots: 0.075
+  exclusion.robots.policy: 0.067
+  RedisCDXSource: 0.571
+  esindex: 0.009
+  LoadShardBlock: 68.766 (3)
+  PetaboxLoader3.datanode: 130.343 (4)
+  CDXLines.iter: 23.977 (3)
+  load_resource: 116.056
+  PetaboxLoader3.resolve: 25.198
+*/
